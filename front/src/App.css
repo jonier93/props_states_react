@@ -1,0 +1,16 @@
+.App {
+  background-color: aquamarine;
+  text-align: center;
+}
+
+.block_comp1 {
+  background-color: aqua;
+}
+
+.hijo_comp2 {
+  background-color: burlywood;
+}
+
+.new_prop {
+  background-color: chartreuse;
+}
